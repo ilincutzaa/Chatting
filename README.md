@@ -1,1 +1,1 @@
-# Chatting
+Basic local messaging app using the Observer design pattern for the GUI. It opens three chat windows where you can write messages and send them, after which they will appear in the conversation with a timestamp.
